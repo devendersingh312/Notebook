@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Devender\\Projects\\Microsoft\\Notebook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B9728C2-BC11-461B-85C6-688D6BD351CA}|Notes.Api.Test\\Notes.Api.Test.csproj|d:\\devender\\projects\\microsoft\\notebook\\notes.api.test\\notescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B9728C2-BC11-461B-85C6-688D6BD351CA}|Notes.Api.Test\\Notes.Api.Test.csproj|solutionrelative:notes.api.test\\notescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Devender\\Projects\\Microsoft\\Notebook\\.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9AE0D3F-2177-88F2-3A7D-0C2ABC431B83}|Notes.Api\\Notes.Api.csproj|d:\\devender\\projects\\microsoft\\notebook\\notes.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9AE0D3F-2177-88F2-3A7D-0C2ABC431B83}|Notes.Api\\Notes.Api.csproj|solutionrelative:notes.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Devender\\Projects\\Microsoft\\Notebook\\Notes.Api.Test\\NotesControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Notes.Api.Test\\NotesControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9AE0D3F-2177-88F2-3A7D-0C2ABC431B83}|Notes.Api\\Notes.Api.csproj|d:\\devender\\projects\\microsoft\\notebook\\notes.api\\notes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A9AE0D3F-2177-88F2-3A7D-0C2ABC431B83}|Notes.Api\\Notes.Api.csproj|solutionrelative:notes.api\\notes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Devender\\Projects\\Microsoft\\Notebook\\Notes.Api\\Notes.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Notes.Api\\Notes.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Devender\\Projects\\Microsoft\\Notebook\\Notes.Api\\Controllers\\NotesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Notes.Api\\Controllers\\NotesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ci.yml",
+              "DocumentMoniker": "D:\\Devender\\Projects\\Microsoft\\Notebook\\.github\\workflows\\ci.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\ci.yml",
+              "ToolTip": "D:\\Devender\\Projects\\Microsoft\\Notebook\\.github\\workflows\\ci.yml",
+              "RelativeToolTip": ".github\\workflows\\ci.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-15T14:33:29.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NotesControllerTests.cs",
               "DocumentMoniker": "D:\\Devender\\Projects\\Microsoft\\Notebook\\Notes.Api.Test\\NotesControllerTests.cs",
               "RelativeDocumentMoniker": "Notes.Api.Test\\NotesControllerTests.cs",
               "ToolTip": "D:\\Devender\\Projects\\Microsoft\\Notebook\\Notes.Api.Test\\NotesControllerTests.cs",
               "RelativeToolTip": "Notes.Api.Test\\NotesControllerTests.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAwwBIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T12:56:58.368Z",
               "EditorCaption": ""
@@ -40,19 +57,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Notes.Api",
+              "Title": "Notes.Api.csproj",
               "DocumentMoniker": "D:\\Devender\\Projects\\Microsoft\\Notebook\\Notes.Api\\Notes.Api.csproj",
               "RelativeDocumentMoniker": "Notes.Api\\Notes.Api.csproj",
               "ToolTip": "D:\\Devender\\Projects\\Microsoft\\Notebook\\Notes.Api\\Notes.Api.csproj",
               "RelativeToolTip": "Notes.Api\\Notes.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-15T12:37:04.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T12:37:04.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NotesController.cs",
               "DocumentMoniker": "D:\\Devender\\Projects\\Microsoft\\Notebook\\Notes.Api\\Controllers\\NotesController.cs",
               "RelativeDocumentMoniker": "Notes.Api\\Controllers\\NotesController.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "Notes.Api\\Controllers\\NotesController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:33:06.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T12:33:06.369Z"
             }
           ]
         }

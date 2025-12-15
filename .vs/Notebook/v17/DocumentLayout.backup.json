@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Notes.Api.Test\\NotesControllerTests.cs",
               "ToolTip": "D:\\Devender\\Projects\\Microsoft\\Notebook\\Notes.Api.Test\\NotesControllerTests.cs",
               "RelativeToolTip": "Notes.Api.Test\\NotesControllerTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAJcAAAAAAAAAAAA/wBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T12:56:58.368Z",
               "EditorCaption": ""
@@ -40,15 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Notes.Api",
+              "Title": "Notes.Api.csproj",
               "DocumentMoniker": "D:\\Devender\\Projects\\Microsoft\\Notebook\\Notes.Api\\Notes.Api.csproj",
               "RelativeDocumentMoniker": "Notes.Api\\Notes.Api.csproj",
               "ToolTip": "D:\\Devender\\Projects\\Microsoft\\Notebook\\Notes.Api\\Notes.Api.csproj",
               "RelativeToolTip": "Notes.Api\\Notes.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-15T12:37:04.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T12:37:04.478Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Notes.Api\\Controllers\\NotesController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:33:06.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T12:33:06.369Z"
             }
           ]
         }
